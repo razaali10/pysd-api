@@ -1,3 +1,12 @@
-fastapi
-uvicorn
-pysd
+numpy>=1.23
+pandas[excel]
+parsimonious
+xarray>=2023.9
+lxml
+regex
+chardet
+black
+openpyxl>=3.1.2
+scipy
+progressbar2
+portion
